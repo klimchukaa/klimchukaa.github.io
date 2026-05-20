@@ -8,24 +8,24 @@ Faculty of Computer Science (FCS), BSc in “Applied Mathematics and Informatics
 ## Additional Education:
 Yandex School of Data Analysis (YSDA) (2024 – 2026)
 
-Program “Data analysis in applied sciences”
+--- Program “Data analysis in applied sciences”
 
 The Summer School «Contemporary Mathematics» (July 2024)
 
-Intensive short-term program on advanced mathematics topics 
+--- Intensive short-term program on advanced mathematics topics 
 
 Independent University of Moscow (2023 – 2024)
 
-Completed first-year mathematics program, awarded merit-based scholarship for academic excellence
+--- Completed first-year mathematics program, awarded merit-based scholarship for academic excellence
 
 ## Research Experience:
 “Combinatorial properties of intersections of fixed-rank matrix sets and their shifts” in Research Program of FCS HSE (April 2025 – Present)
 
-Formulated structural conjectures and carried out numerical experiments comparing the relative sizes of intersections of fixed-rank matrix sets, proved the theorem for symmetric matrices
+--- Formulated structural conjectures and carried out numerical experiments comparing the relative sizes of intersections of fixed-rank matrix sets, proved the theorem for symmetric matrices
 
 “Friends wander on graph” at 35th Summer conference of the International mathematical Tournament of Towns (August 2023)
 
-Achieved maximum results in the «Friends Walk on a Graph» project, including a complete study of the connectivity of the friendship exchange graph on a cycle
+--- Achieved maximum results in the «Friends Walk on a Graph» project, including a complete study of the connectivity of the friendship exchange graph on a cycle
 
 ## Work Experience:
 Teaching assistant (2024 – 2025) 
